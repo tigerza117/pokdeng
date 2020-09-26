@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601136027 source:d:\github\pokdeng\pokdeng\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
